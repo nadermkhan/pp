@@ -1,0 +1,4 @@
+<resources>
+        <string name="app_name">EMI Locker</string>
+    <string name="device_admin_description">This app requires device administrator permission to prevent unauthorized factory reset and uninstall</string>
+</resources>
